@@ -5,12 +5,12 @@
     <url>/zju-photos/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　最近打算整理过往的照片放到博客，关于紫金港的记录此前在微信公众号发布过，所以就作为第一篇吧。我在紫金港学习生活了三年，记录下了她的四季。</p>
 
-        <div id="aplayer-kHcMQQdf" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-JEmcjfhb" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-kHcMQQdf"),
+            element: document.getElementById("aplayer-JEmcjfhb"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -123,11 +123,10 @@
     <title>Hello World</title>
     <url>/Hi/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>大家好，欢迎来到我的个人主页。<br>Hello everyone, welcome to my world.</p>
-<p>这个博客主要用来分享我的摄影作品、想法和日常生活，欢迎通过微博或推特和我交流。</p>
-<p>I am sharing my photos,  ideas, and daily life in this blog. If you like them, welcome to talk with me via Weibo and Twitter.</p>
-<a id="more"></a>
+<p>这个博客主要用来分享我的摄影作品、想法和日常生活。</p>
+<p>I am sharing my photos,  ideas, and daily life in this blog.</p>
+<br>
 
-<p>Thank Lena, and<br>$$<br>x^2+(y-\sqrt[3]{x^2})^2=1<br>$$<br><br></p>
 <p><img src="/Hi/723.JPG" alt></p>
 ]]></content>
       <tags>
